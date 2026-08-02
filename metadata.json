@@ -1,0 +1,6 @@
+{
+  "name": "Café Grandeur - Luxury Café & Event Dining",
+  "description": "An elegant, warm, and luxurious café experience featuring online table bookings with interactive seating, custom event decoration configurator, gourmet menu ordering in Indian Rupees, loyalty rewards, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
