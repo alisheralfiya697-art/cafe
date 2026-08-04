@@ -165,7 +165,7 @@ README.md
 # 🚀 Installation
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/alisheralfiya697-art/cafe.git>
 
 cd cafe-booking
 
